@@ -5,6 +5,9 @@
  * @package WordPress
  */
 
+update_option( 'siteurl', 'https://testwordp.herokuapp.com/' );
+update_option( 'home', 'https://testwordp.herokuapp.com/' );
+
 require( ABSPATH . WPINC . '/option.php' );
 
 /**
