@@ -20,8 +20,8 @@
 
 
 
-define('WP_HOME','https://dashboard.heroku.com/apps/testwordp');
-define('WP_SITEURL','https://dashboard.heroku.com/apps/testwordp');
+define('WP_HOME','https://testwordp.herokuapp.com/');
+define('WP_SITEURL','https://testwordp.herokuapp.com/');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
